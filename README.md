@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex1-ai
 - 👀 I’m interested in artificial intelligence 
-- 🌱 I’m currently learning am currently studying in Methodist university Ghana ,level 100
+- 🌱 I’m currently learning am currently studying in Methodist university Ghana 
 - 💞️ I’m looking to collaborate on a project and learning more 
 - 📫 How to reach me on +2348067490562  whatsapp
 
