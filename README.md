@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alex1-ai
-- 👀 I’m interested in artificial intelligence 
+- 👀 I’m interested in mobile dev, web dev and artificial intelligence
 - 🌱 I’m currently studying in Methodist university Ghana
 -    I'm currently using java,Python,php,javascript,flutter,kotline,html,css,boostrap,react
 - 💞️ I’m looking to collaborate on a project and learning more 
