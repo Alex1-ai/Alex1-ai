@@ -1,5 +1,6 @@
-
-<div><img align="center" width="100%" alt='Coding' src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/></div>
+<div> 
+  <img width="100%"src='https://github.com/Alex1-ai/Alex1-ai/assets/78540958/55dba2e8-a8ca-4534-b4b0-ca3c7c0d4dac' />
+</div>
 <h1 align="center">Hi 👋, I'm Onedibe Emmanuel</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
