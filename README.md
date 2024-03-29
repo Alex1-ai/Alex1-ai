@@ -1,8 +1,4 @@
-<div> 
-  <img width="100%"src='https://github.com/Alex1-ai/Alex1-ai/assets/78540958/316b58db-934f-4ac9-9ce6-0b08e1a1fad2' />
- 
 
-</div>
 <h1 align="center">Hi 👋, I'm Onedibe Emmanuel</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
