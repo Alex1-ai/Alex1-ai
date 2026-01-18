@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/alex1-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alex1-ai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alexander-emmanuel-b68456203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-emmanuel-b68456203" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emmanuel-onedibe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-emmanuel-b68456203" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16333917/alexander-emmanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16333917/alexander-emmanuel" height="30" width="40" /></a>
 <a href="https://kaggle.com/alexanderemmanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alexanderemmanuel" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alexanderemmanu1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alexanderemmanu1?hr_r=1" height="30" width="40" /></a>
