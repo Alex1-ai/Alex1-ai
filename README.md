@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Onedibe Emmanuel</h1>
-<h3 align="center">A passionate AI & fullstack developer from Nigeria</h3>
+<h3 align="center">A passionate AI & fullstack developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex1-ai&label=Profile%20views&color=0e75b6&style=flat" alt="alex1-ai" /> </p>
