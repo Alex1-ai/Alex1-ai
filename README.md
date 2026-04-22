@@ -7,7 +7,7 @@
 <div><img align="right" width="400" alt='Coding' src="https://miro.medium.com/v2/resize:fit:720/1*gReLR6hZjwyBxHmfLN1AVw.gif"/></div>
 - 🌱 I’m currently learning **Tensorflow,Keras,scikit-learn**
 
-- 💬 About me **I am skilled Full-stack Engineer, driven by a genuine love for technology. With expertise in both front-end and back-end development, I possess a versatile skill set and a relentless commitment to excellence. My passion fuels my continuous learning, enabling me to stay up-to-date with the latest industry trends and deliver innovative solutions. With a keen eye for detail, exceptional problem-solving abilities, and a collaborative mindset, I thrive in dynamic environments and consistently exceed expectations. My unwavering passion for technology propels them to create impactful solutions that push boundaries and drive positive change.**
+- 💬 About me **I am a skilled Full-stack Engineer, driven by a genuine love for technology. With expertise in both front-end and back-end development, I possess a versatile skill set and a relentless commitment to excellence. My passion fuels my continuous learning, enabling me to stay up-to-date with the latest industry trends and deliver innovative solutions. With a keen eye for detail, exceptional problem-solving abilities, and a collaborative mindset, I thrive in dynamic environments and consistently exceed expectations. My unwavering passion for technology propels me to create impactful solutions that push boundaries and drive positive change.**
 
 - 📫 How to reach me **alexanderemmanuel1719@gmail.com**
 
@@ -15,13 +15,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/alex1-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alex1-ai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/emmanuel-onedibe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-emmanuel-b68456203" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16333917/alexander-emmanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16333917/alexander-emmanuel" height="30" width="40" /></a>
-<a href="https://kaggle.com/alexanderemmanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alexanderemmanuel" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alexanderemmanu1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alexanderemmanu1?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bssidd205971/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bssidd205971/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/alexanderemmanuel1719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alexanderemmanuel1719" height="30" width="40" /></a>
+<a href="https://dev.to/alex1-ai" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alex1-ai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emmanuel-onedibe" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-emmanuel-b68456203" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16333917/alexander-emmanuel" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16333917/alexander-emmanuel" height="30" width="40" /></a>
+<a href="https://kaggle.com/alexanderemmanuel" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alexanderemmanuel" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/alexanderemmanu1?hr_r=1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alexanderemmanu1?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bssidd205971/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bssidd205971/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/alexanderemmanuel1719" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alexanderemmanuel1719" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
