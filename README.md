@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex1-ai&label=Profile%20views&color=0e75b6&style=flat" alt="alex1-ai" /> </p>
 <div><img align="right" width="400" alt='Coding' src="https://miro.medium.com/v2/resize:fit:720/1*gReLR6hZjwyBxHmfLN1AVw.gif"/></div>
-- 🌱 I’m currently learning **Tensorflow,Keras,scikit-learn**
+- 🌱 I’m currently working with **Tensorflow,Keras,scikit-learn,MCP,RAG,Agent**
 
-- 💬 About me **I am a skilled Full-stack Engineer, driven by a genuine love for technology. With expertise in both front-end and back-end development, I possess a versatile skill set and a relentless commitment to excellence. My passion fuels my continuous learning, enabling me to stay up-to-date with the latest industry trends and deliver innovative solutions. With a keen eye for detail, exceptional problem-solving abilities, and a collaborative mindset, I thrive in dynamic environments and consistently exceed expectations. My unwavering passion for technology propels me to create impactful solutions that push boundaries and drive positive change.**
+- 💬 About me **I am a skilled AI / Full-stack Engineer, driven by a genuine love for technology. With expertise in both front-end and back-end development, I possess a versatile skill set and a relentless commitment to excellence. My passion fuels my continuous learning, enabling me to stay up-to-date with the latest industry trends and deliver innovative solutions. With a keen eye for detail, exceptional problem-solving abilities, and a collaborative mindset, I thrive in dynamic environments and consistently exceed expectations. My unwavering passion for technology propels me to create impactful solutions that push boundaries and drive positive change.**
 
 - 📫 How to reach me **alexanderemmanuel1719@gmail.com**
 
